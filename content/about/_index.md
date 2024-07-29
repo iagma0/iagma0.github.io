@@ -2,11 +2,11 @@
 cascade:
   headless: true
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  A personal website for Tiago Marques, postgraduate linguistics student.
 headless: false
 show_header: true
-sidebar_left: false
-title: About
+sidebar_left: true
+title: About Me
 ---
 
 ** index doesn't contain a body, just front matter above.
